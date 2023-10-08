@@ -12,10 +12,24 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>c670a1c0-9268-4653-a04b-00172bce6b9b</testSuiteGuid>
    <testCaseLink>
+      <guid>0925d531-d153-4806-811e-96103f53a32d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC001. Login</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
       <guid>1e0d1645-cac2-4ae4-8868-459fcc5086d4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TC002. Add New User</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>7394d0ea-63af-474d-ab78-cfcd4c08081f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC002. Add Entitlement</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

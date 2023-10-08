@@ -17,17 +17,19 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.callTestCase(findTestCase('TC001. Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.maximizeWindow()
-
-WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
-
-WebUI.setText(findTestObject('Object Repository/Newuser/Page_OrangeHRM/input_Username_username'), 'Admin')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Newuser/Page_OrangeHRM/input_Password_password'), 'hUKwJTbofgPU9eVlw/CnDQ==')
-
-WebUI.click(findTestObject('Object Repository/Newuser/Page_OrangeHRM/button_Login'))
+//WebUI.openBrowser('')
+//
+//WebUI.maximizeWindow()
+//
+//WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
+//
+//WebUI.setText(findTestObject('Object Repository/Newuser/Page_OrangeHRM/input_Username_username'), 'Admin')
+//
+//WebUI.setEncryptedText(findTestObject('Object Repository/Newuser/Page_OrangeHRM/input_Password_password'), 'hUKwJTbofgPU9eVlw/CnDQ==')
+//
+//WebUI.click(findTestObject('Object Repository/Newuser/Page_OrangeHRM/button_Login'))
 
 WebUI.click(findTestObject('Object Repository/Newuser/Page_OrangeHRM/a_PIM'))
 
@@ -48,14 +50,4 @@ WebUI.setText(findTestObject('Newuser/Page_OrangeHRM/Input_Login_password'), 'il
 WebUI.setText(findTestObject('Newuser/Page_OrangeHRM/Input_Login_password_Confrim'), 'ilhamsp1')
 
 WebUI.click(findTestObject('Newuser/Page_OrangeHRM/btn_Submit'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('Apply Leave/Page_OrangeHRM/a_Leave'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('Apply Leave/Page_OrangeHRM/div_Entitlement'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('Apply Leave/Page_OrangeHRM/a_Add Entitlements'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.setText(findTestObject('Apply Leave/Page_OrangeHRM/Input_Entitlements_Employee_Name'), 'ilham')
-
-WebUI.click(findTestObject('Newuser/Page_OrangeHRM/div_select_ilhamsp'), FailureHandling.STOP_ON_FAILURE)
 
