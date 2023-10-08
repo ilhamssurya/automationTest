@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Weak PasswordFor a strong password, ple_0aa07e</name>
+   <tag></tag>
+   <elementGuidId>98357418-9cac-4954-b795-0d19fbbb8f12</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div/form/div/div[2]/div[4]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-grid-item.oxd-grid-item--gutters.user-password-cell</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e76be38f-676b-4268-9222-fc2a57c3b6aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-grid-item oxd-grid-item--gutters user-password-cell</value>
+      <webElementGuid>597e90de-2222-4a72-9ac2-94edc76268ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Weak PasswordFor a strong password, please use a hard to guess combination of text with upper and lower case characters, symbols and numbers</value>
+      <webElementGuid>74713c64-ea00-4771-8ca6-5f4fb9ea8a97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;orangehrm-employee-container&quot;]/div[@class=&quot;orangehrm-employee-form&quot;]/div[@class=&quot;oxd-form-row user-password-row&quot;]/div[@class=&quot;oxd-grid-2 orangehrm-full-width-grid&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters user-password-cell&quot;]</value>
+      <webElementGuid>e762e4b6-ea66-4b47-94ac-11920c21b3e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/form/div/div[2]/div[4]/div/div</value>
+      <webElementGuid>ded05aa2-e0a0-4e8a-85bf-f5f201bf6096</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div</value>
+      <webElementGuid>f7ac3b78-bdd7-4c77-950b-a8f7e7721210</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Weak PasswordFor a strong password, please use a hard to guess combination of text with upper and lower case characters, symbols and numbers' or . = 'Weak PasswordFor a strong password, please use a hard to guess combination of text with upper and lower case characters, symbols and numbers')]</value>
+      <webElementGuid>ce7f46ea-3780-4f06-a998-661e4100fa1d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

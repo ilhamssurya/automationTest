@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Apply LeaveLeave TypeCAN - FMLALeave Ba_aea668</name>
+   <tag></tag>
+   <elementGuidId>6f2d3383-4abf-4f80-acd9-77e115594017</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-layout-context</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>65a4619c-0a00-40c2-b30d-005c372c7ac3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-layout-context</value>
+      <webElementGuid>2f9adf2c-5dc3-4089-9f6d-a9136c00e7e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apply LeaveLeave TypeCAN - FMLALeave Balance12.00 Day(s)From DateTo DatePartial DaysAll DaysDurationHalf Day - MorningComments * Required Apply </value>
+      <webElementGuid>d199d469-4a2c-4166-ad50-583dc8c268d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]</value>
+      <webElementGuid>a3f21db4-f2f3-4a28-a720-03d09740fcb1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]</value>
+      <webElementGuid>e8160ddf-9d82-42b8-96c8-e159e02a3167</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configure'])[1]/following::div[4]</value>
+      <webElementGuid>91bab5d2-811d-4101-8db4-38a7d1b23487</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reports'])[1]/following::div[4]</value>
+      <webElementGuid>00e79e84-c1ca-4cb5-bcf2-3fc5abcd8499</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>01e33cca-ecbb-405f-bcf3-cc97b1bee217</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Apply LeaveLeave TypeCAN - FMLALeave Balance12.00 Day(s)From DateTo DatePartial DaysAll DaysDurationHalf Day - MorningComments * Required Apply ' or . = 'Apply LeaveLeave TypeCAN - FMLALeave Balance12.00 Day(s)From DateTo DatePartial DaysAll DaysDurationHalf Day - MorningComments * Required Apply ')]</value>
+      <webElementGuid>91414141-b423-439d-8e31-ab7364b01452</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
